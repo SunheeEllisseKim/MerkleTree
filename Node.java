@@ -1,3 +1,16 @@
+/***************************************************************************
+** File:    Node.java
+** Project: CSCE 314 Project 1, Fall 2020
+** Author:  Rishabh Tatia, Sunhee Kim
+** Date:    11/07/20
+** Section: 501
+** E-mail:  tatiaris@tamu.edu, sunheek@tamu.edu
+**
+** This file contains the class Node, which defines all of the merkle
+** tree Node's functions and operations, implementing all Node 
+** functionalitiesalong with hashing capabilities to generate the secure structure.
+**
+****************************************************************************/
 public class Node
 {
     private float key;
