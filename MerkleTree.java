@@ -1,4 +1,4 @@
-public class MerkleTree {
+public class MerkleTree{
     private Node merkleRoot = null;
     public MerkleTree () {
 
