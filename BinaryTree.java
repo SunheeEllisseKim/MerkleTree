@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /***************************************************************************
 ** File:    BinaryTree.java
 ** Project: CSCE 314 Project 1, Fall 2020
@@ -14,7 +16,8 @@
 public class BinaryTree
 {
     // Declare class variables here
-
+    public ArrayList <Node> TreeList;
+    public Node TreeRoot;
     // BinaryTree (Constructor)
     // Instantiate the merkle tree
     public BinaryTree ()
