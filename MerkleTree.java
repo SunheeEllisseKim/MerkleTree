@@ -14,7 +14,7 @@
 
 // Import all dependencies for inputs and hashing here.
 
-public class MerkleTree implements BinaryTree
+public class MerkleTree extends BinaryTree
 {
     // Declare class variables here
     private Node merkleRoot = null;
@@ -30,13 +30,13 @@ public class MerkleTree implements BinaryTree
     // Given data, returns it's hashed string
     String hash(String data)
     {
-
+        return "";
     }
 
     // combine
     // Given 2 hashes, combines them and returns a new hash
     String combine(String hash1, String hash2)
     {
-
+        return "";
     }
 }

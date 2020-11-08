@@ -25,7 +25,7 @@ public class BinaryTree
     // insert
     // Given a key and it's relevant data, create a node
     // and insert it in the tree
-    void insert(String key, string hashedData)
+    void insert(String key, String hashedData)
     {
 
     }
@@ -41,13 +41,14 @@ public class BinaryTree
     // Given the key to a node, return the node
     Node find(String key)
     {
-
+        Node x = new Node();
+        return x;
     }
 
     // getSize
     // Returns the size of the tree
     int getSize()
     {
-
+        return -990;
     }
 }

@@ -67,11 +67,11 @@ public class Node
     {
         return value;
     }
-    public void setKey(Float x)
+    public void setKey(float x)
     {
         key = x;
     }
-    public void setValue(Float x)
+    public void setValue(float x)
     {
         value = x;
     }
